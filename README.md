@@ -90,7 +90,7 @@ t5_out_large	81.7%
 * success rate: 100.0%
 ```
 
-## Reproduce the Main Table of the Paper
+## Reproduce the Main Table of the model
 
 ```bash
 cd CodeRelease/reproduce
@@ -106,7 +106,7 @@ Computer Science and engineering
 
 National Institute of Technology, Patna (NITP)
 
-[Github profile](https://github.com/adarsh-2011)  [Linkdin](https://www.linkedin.com/in/adarsh-srivastava-10a783257/)
+[Github profile](https://github.com/adarsh-2011)           [Linkdin](https://www.linkedin.com/in/adarsh-srivastava-10a783257/)
 
 ## contact
 
